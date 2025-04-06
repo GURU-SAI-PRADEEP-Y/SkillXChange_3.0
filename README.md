@@ -2,7 +2,7 @@
 
 SkillXchange is a modern web platform that connects learners with mentors, facilitating skill exchange and professional growth. Built with React, TypeScript, and Supabase, it offers a seamless experience for both mentors and students.
 
-![SkillXchange Landing Page](![Image](https://github.com/user-attachments/assets/bd606d9f-110b-4aba-ad0a-2204b9d2b68c))
+![SkillXchange Landing Page](<![Image](https://github.com/user-attachments/assets/bd606d9f-110b-4aba-ad0a-2204b9d2b68c)>)
 
 ## 🌟 Features
 
@@ -24,17 +24,20 @@ SkillXchange is a modern web platform that connects learners with mentors, facil
 ### Clone and Setup
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/skillxchange.git
    cd skillxchange
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Create a `.env` file in the root directory:
+
    ```env
    VITE_SUPABASE_URL=your_supabase_url
    VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
@@ -49,11 +52,13 @@ SkillXchange is a modern web platform that connects learners with mentors, facil
 ## 📸 Preview
 
 ### Student Dashboard
-![Student Dashboard](![Image](https://github.com/user-attachments/assets/79f064ae-7cce-4b63-9fd8-d1dcf2293663))
+
+![Student Dashboard](<![Image](https://github.com/user-attachments/assets/79f064ae-7cce-4b63-9fd8-d1dcf2293663)>)
 Browse and connect with mentors in your areas of interest.
 
 ### Mentor Dashboard
-![Mentor Dashboard](![Image](https://github.com/user-attachments/assets/d1bc3a35-4d95-4fa0-8feb-d910a92f7f56))
+
+![Mentor Dashboard](<![Image](https://github.com/user-attachments/assets/d1bc3a35-4d95-4fa0-8feb-d910a92f7f56)>)
 Manage your gigs, schedule, and student interactions.
 
 ## 🛠 Tech Stack
@@ -106,7 +111,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Guru Sai Pradeep** - *Initial work* - [YourGitHub](https://github.com/GURU-SAI-PRADEEP-Y/SkillXChange_3.0)
+- **Guru Sai Pradeep** - _Initial work_ - [YourGitHub](https://github.com/GURU-SAI-PRADEEP-Y/SkillXChange_3.0)
 
 ## 🙏 Acknowledgments
 
