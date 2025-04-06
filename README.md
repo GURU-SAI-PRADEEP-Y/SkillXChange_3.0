@@ -110,10 +110,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Guru Sai Pradeep** - *Initial work* - [YourGitHub](https://github.com/GURU-SAI-PRADEEP-Y/SkillXChange_3.0)
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped shape SkillXchange
 - Special thanks to the Supabase team for their amazing platform
 - Lucide React for the beautiful icons
