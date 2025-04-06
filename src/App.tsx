@@ -1,16 +1,16 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import { SignIn } from './pages/SignIn';
-import { SignUp } from './pages/SignUp';
-import { ForgotPassword } from './pages/ForgotPassword';
-import { Dashboard } from './pages/Dashboard';
-import { StudentDashboard } from './pages/StudentDashboard';
-import { MentorDashboard } from './pages/MentorDashboard';
-import { CreateGig } from './pages/CreateGig';
-import { EditGig } from './pages/EditGig';
-import { TimeSlots } from './pages/TimeSlots';
-import { LandingPage } from './pages/LandingPage';
-import { Profile } from './pages/Profile';
+// import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { SignIn } from "./pages/SignIn";
+import { SignUp } from "./pages/SignUp";
+import { ForgotPassword } from "./pages/ForgotPassword";
+import { Dashboard } from "./pages/Dashboard";
+import { StudentDashboard } from "./pages/StudentDashboard";
+import { MentorDashboard } from "./pages/MentorDashboard";
+import { CreateGig } from "./pages/CreateGig";
+import { EditGig } from "./pages/EditGig";
+import { TimeSlots } from "./pages/TimeSlots";
+import { LandingPage } from "./pages/LandingPage";
+import { Profile } from "./pages/Profile";
 
 export default function App() {
   return (
