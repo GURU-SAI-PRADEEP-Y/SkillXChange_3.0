@@ -2,7 +2,7 @@
 
 SkillXchange is a modern web platform that connects learners with mentors, facilitating skill exchange and professional growth. Built with React, TypeScript, and Supabase, it offers a seamless experience for both mentors and students.
 
-![SkillXchange Landing Page](https://i.imgur.com/YourImageId1.png)
+![SkillXchange Landing Page](![Image](https://github.com/user-attachments/assets/bd606d9f-110b-4aba-ad0a-2204b9d2b68c))
 
 ## 🌟 Features
 
@@ -49,16 +49,12 @@ SkillXchange is a modern web platform that connects learners with mentors, facil
 ## 📸 Preview
 
 ### Student Dashboard
-![Student Dashboard](https://i.imgur.com/YourImageId2.png)
+![Student Dashboard](![Image](https://github.com/user-attachments/assets/79f064ae-7cce-4b63-9fd8-d1dcf2293663))
 Browse and connect with mentors in your areas of interest.
 
 ### Mentor Dashboard
-![Mentor Dashboard](https://i.imgur.com/YourImageId3.png)
+![Mentor Dashboard](![Image](https://github.com/user-attachments/assets/d1bc3a35-4d95-4fa0-8feb-d910a92f7f56))
 Manage your gigs, schedule, and student interactions.
-
-### Chat Interface
-![Chat Interface](https://i.imgur.com/YourImageId4.png)
-Real-time messaging system for seamless communication.
 
 ## 🛠 Tech Stack
 
